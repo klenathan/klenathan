@@ -12,8 +12,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=klenathan&icon=0&color=5)](https://visitcount.itsvg.in)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=klenathan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
